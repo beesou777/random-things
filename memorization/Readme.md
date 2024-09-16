@@ -1,0 +1,2 @@
+# Understanding Memoization
+Memoization is a technique used to optimize functions by caching their results based on their input parameters. When the same inputs occur again, the cached result is returned instead of recalculating it.
